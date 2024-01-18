@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": ["ICS 311: Algorithims", "ICS 314: Software Engineering"
+      "courses": [
       ]
     }
   ],
@@ -45,7 +45,7 @@
       "company": "Acedemic Resource Center",
       "position": "Tutor",
       "website": "https://manoa.hawaii.edu/undergrad/Learning/",
-      "startDate": "2015-01-16",
+      "startDate": "2024-01-16",
       "endDate": "Present",
       "summary": "Math, Physics, and ICS Tutor",
       "highlights": [
@@ -54,42 +54,29 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Robinson, Chur, and Cheng, Attorneys at Law",
+      "position": "Office Assistant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2021-08-01",
+      "endDate": "2023-12-26",
+      "summary": "Handled client intakes and organized legal documents",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Respond to potential clients, gathering information and submitting it to Mr. Cheng",
+        "Systematically organized and filed important documents, handled creating new folders, scanned and copied documents when needed"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii Chess Federation",
+      "website": "https://hawaiichess.com/",
+      "position": "(Unofficial) Scholastic Assistant Tournament Director",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Facilitator of rounds to ensure smooth operation of tournaments",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Participated in a team to set up and break down tables, chess boards, and clocks for tournaments",
+        "Assisted the Head Tournament Directors by adjudicating in-round disputes"
       ]
     }
   ],
