@@ -1,59 +1,56 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Adriel White",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/AdrielWhite.png",
+    "email": "adrielw@hawaii.edu",
+    "phone": "808-773-4468",
+    "website": "https://AdrielWhite.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "AdrielWhite", "url": "https://github.com/AdrielWhite" },
+      { "network": "linkedin", "username": "adriel-white", "url": "https://www.linkedin.com/in/adriel-white-457ab22a9" },
+      { "network": "email", "username": "adrielw", "url": "adrielw@hawaii.edu" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "Software Engineering" },
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Eclipse", "Git/GitHub"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS 311: Algorithims", "ICS 314: Software Engineering"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Acedemic Resource Center",
+      "position": "Tutor",
+      "website": "https://manoa.hawaii.edu/undergrad/Learning/",
+      "startDate": "2015-01-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Math, Physics, and ICS Tutor",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provides learning assistance to students in both scheduled and drop-in tutoring",
+        "Workshops with team of tutors and staffs to expand academic oppurtunities to students"
       ]
     },
     {
@@ -98,16 +95,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UH Manoa Provost Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Competetive scholarship awarded to incoming freshmen for rigorous academics including at least a 3.7 high school GPA."
     }
   ],
   "references": [
