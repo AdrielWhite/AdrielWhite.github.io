@@ -9,7 +9,7 @@ labels:
   - Basic Progamming
   - Creativity
   - Game Design
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "I came up with the idea and implemented a simple Tron bike game that can be played PvP or player vs computer."
 ---
 
 <img width="600px" src="https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/Screenshot%202024-01-18%20165234.png?raw=true" class="img-thumbnail" >
