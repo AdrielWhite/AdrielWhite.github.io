@@ -20,7 +20,7 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here you can see the entire performance here:
+You can see the entire performance here:
  
 Source: <a href="https://www.youtube.com/watch?v=lH9APZEAAfQ">HEARTS 20th Anniversary Spring Concert at Hawaii Theatre, May 6, 2022
 </a>
