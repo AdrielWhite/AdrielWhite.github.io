@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/c++.png
+image: img/c-image.png
 title: "C++ Database"
 date: 2023
 published: true
