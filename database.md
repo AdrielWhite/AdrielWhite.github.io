@@ -14,11 +14,9 @@ summary: "A database which allows records to be created, deleted, searched for a
 
 <img class="img-fluid" src="https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/Screenshot%202024-01-18%20163501.png?raw=true">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In ICS 212 I programmed a C++ database. The database is built upon a linked-list framework. This database contains many functions which allow the adding, removal, searching, and printing of records.  Upon termination of the program, the project will save the remaining records into a txt file. This allows the records to be saved and accessed when the program is launched again. The project also contains a dynamic text-based user interface which can handle a variety of proper and improper inputs and allow the user to input and access data.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
+The concept of this database is from the ICS 212 instructor and material. However, all code was planned and coded by me. Here is a snippet of code that implements the findRecord function which searches through the database looking for records that have user-specified account number:
 
 ```
 int llist::findRecord(int uaccountno)
@@ -58,4 +56,4 @@ int llist::findRecord(int uaccountno)
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/AdrielWhite/c-project-database"><i class="large github icon "></i>C++ Database on github</a>
