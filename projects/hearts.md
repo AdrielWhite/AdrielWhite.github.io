@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/hearts_hawaii_logo.jpg
+image: img/hearts-logo.jpg
 title: "HEARTS Spring 2022 Choir Performance"
 date: 2022
 published: true
