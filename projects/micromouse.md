@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Tron - Scratch Project"
+date: 2017
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Basic Progamming
+  - Creativity
+  - Game Design
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
