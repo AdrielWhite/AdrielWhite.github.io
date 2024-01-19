@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/c++%20image.png?raw=true
+image: img/c++.png
 title: "C++ Database"
 date: 2023
 published: true
