@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: [https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/c%2B%2B%20image.png](https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/c++%20image.png?raw=true)
 title: "C++ Database"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A database which allows records to be created, deleted, searched for and saves the data in a txt file."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="[../img/cotton/cotton-header.png](https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/Screenshot%202024-01-18%20163501.png?raw=true)">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
