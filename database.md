@@ -29,7 +29,30 @@ int llist::findRecord(int uaccountno)
     #ifdef DEBUGMODE
     cout << "\n/* DEBUG ** findRecord() */";
     cout << "\n/* DEBUG ** accountno = " << uaccountno << " */\n";
-    . . .
+    #endif
+
+    current = this->start;
+    retVal = -1;
+    while (current != NULL)
+    {
+        if ((*current).accountno == uaccountno)
+        {
+            if (retVal < 0)
+            {
+                retVal = 1;
+            }
+            else
+            {
+                retVal++;
+            }
+            cout << "\naccountno: " << (*current).accountno;
+            cout << "\nname: " << (*current).name;
+            cout << "address: \n" << (*current).address;
+        }
+        current = (*current).next;
+    }
+    return retVal;
+}
 ```
 
 
