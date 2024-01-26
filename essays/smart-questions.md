@@ -3,97 +3,25 @@ layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2024-01-25
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+I played chess competitively for over a decade while I was in school. One thing that has stayed with me from this experience is something my coach would often say. He would set up a chess position and ask the students what we should do in the game. When somebody would shout out a move, he would say something quite simple, “Don’t give me a move, give me a plan.” This is something I reflect upon because of the great lesson he was trying to teach. A solution is not as good as learning and planning the proper path to a solution. I believe that this concept is very relevant to computer programming. In fact, if a programmer doesn’t follow this concept, they may just embarrass themselves in a public forum (which is the least of their problems).
 
-## Is there such thing as a stupid question?
+Eric S. Raymond, a prominent software engineer and writer, once wrote an article on how to write a smart question for programming forums. The ESR’s qualities of a smart question can be boiled down to a few key ideas: the question is clear, it has a good title, it has ample explanation, it has an adequate (yet not too long) block of code, it is polite, and very importantly it shows evidence of work put in before the question was asked (among other qualities). When a person provides a quality question in this manner, others can take it seriously and help the person learn how to solve the coding problem they face. When uploading a question to Stack Overflow or other similar forums, a programmer should follow Raymond’s guidelines as they will increase their chances of getting a good answer rather than no answers or ridicule.
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+When someone posts an unclear or vague question, few people will want to help. Additionally, hackers and other experienced programmers are immediately going to be wary of any impolite or angry questioners. For example, a post on Stack Overflow entitled “Condition in Javascript doesn't work” (already a red flag), didn’t get great responses due to its unpleasant tone and lack of work put in by the questioner. The question starts with the line, “I'm about to get mad because of those conditions in JavaScript. Why this one doesn't work?” The post continues, with the questioner showing the code of his conditional and stating that he has done conditionals before in a bunch of languages but Javascript doesn’t seem to be working. This post breaks so many of ESR’s question rules. It has an unclear name, negative tone, and an arrogant suggestion that the language is wrong, not the coder.
 
-## What’s a smart question?
+As is expected the responses to this question were sparse and not great. Additionally, the others in this post often took subtle jabs at the questioner. For example one response pointed out that part of the coder’s conditional statement was just bad code saying that segment “will always be true regardless of the value of act. No, that's not a Javascript annoyance, it's basic logic.” When looking at the answers it seems like many of those who chose to respond at all, did it to show why the questioner was wrong in his assumptions more than to really help him out. To top it off, his comment was also downvoted to a score of -4 votes. This example shows that bad questions are not helping a coder or his reputability on Stack Overflow. There may have been an answer in this specific instance, but it wasn’t really a collaborative or constructive experience
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+On the flip side to this example, there are many great questions on Stack Overflow that elicit much better responses. When clear and comprehensive questions are posted, they generally receive quantitative and qualitative feedback. A great example of this is the post titled, “AngularJS : Initialize service with asynchronous data.” This post is a breath of fresh air compared to the last question. In the post, the writer explains the problem they face regarding the AngularJS asynchronous data, they provide a manageable chunk of code, describe their desired functionality, and explain the error the code would throw. They also provide multiple potential solutions that they had worked on and code to accompany them, but explained why these implementations were not satisfactory to their functional needs (such as one using a global variable). As defined by Raymond, this is a superb question. It is clear, breaking down the goal of the program. It further clarifies and shows evidence of effort by providing the potential but inadequate solutions.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+The responses to this question are incredibly different from those in the first example. Firstly, there are a lot of people chipping in, providing suggestions and working together toward a solution. Since the questioner clearly spent a lot of time on the problem and still needed help, people in turn took the time to write their own code and provide it. One respondent even provided a plnkr link to work on coding a solution with the original person who asked the question. In the end, both the question and the prominent solution have hundreds of upvotes while the post has over 200k views. All of this shows how constructive a good question can be on Stack Overflow. It can spur collaboration and advanced problem solving.
 
-```
-Q: python date of the previous month
+Ultimately, the way a question is framed can drastically change its reception. Lazy questions can lose a person credibility and provide a slight chance of help. Clear, polite, and effort-based questions provide a chance for collaboration and intuitive solutions. When it comes to programming it's best to take ESR’s advice and put in a little extra effort before hitting the post button. This may help you earn something even better than a solution, an opportunity to learn with others how to achieve the solution.
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
