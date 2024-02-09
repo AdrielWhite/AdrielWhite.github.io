@@ -1,19 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Higher Standards: Better Code"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2024-02-08
+published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Coding Standards
+  - ESLint
+  - Javascript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+I am both a college student and a perfectionist. This is a devastating combination. College courses are usually so fast paced that there is no time to worry about a few sub-par grades on past assignments. And yet, I do worry about them. I view this as all a part of pushing myself to excel. With that in mind, one thing that can be quite frustrating is turning in an assignment, getting every final answer correct, and yet being deducted a fair amount of points for glossing over steps or making little mistakes. If the solution is correct, why is the answer somehow incomplete? This concept is very relevant to coding. We can program an algorithm that meets all the specifications to address the issue we face and yet it may be sloppy or hard to read. But, if the compiler doesn’t complain, should we?
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+The quick answer to this question is yes. Coding standards are extremely important. Coding structures enforced by programs such as ESLint, may be frustrating to work with, especially at first. However, they ensure code that is better than just functional while encouraging good, lasting programing habits.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Before diving into the benefits of coding standards, however, it is important to acknowledge the frustrations they cause. In the context of a classroom (or any fast-paced environment), programs such as ESLint can seem like just another hurdle on the way to a successful algorithm. Hours, days, or longer can be poured into a project. Then finally, all unit tests are passed; the program is done, right? No, upon checking ESLint, we realize that the little green checkmark eludes us. It may take a fair amount of time fixing up these “errors” and there is not always a lot of time to waste, whether it be an assignment or work deadline looming. This can be especially annoying for students, where coding assignments are generally used to prove that the student can solve a problem, not whether or not they properly indented a line or wrote const in front of a function declaration. One thing that still haunts me to this day is the coding style required for C code in the Programming Structures class I took in Spring of 2023. There was a script that checked code for style errors and I can remember running it on programs and watching dozens of minor errors popping up that had to be painstakingly corrected to avoid point deductions. Coding standards can be a pain.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Notwithstanding the annoyance that can be caused by coding standards, they are essential to enforce good coding practices. Writing sloppy code is dangerous both conceptually and visually. It’s easy to make mistakes when code lacks proper indentation and spacing. Well formatted code, on the other hand, provides readability and efficient debugging. I have a family friend who has worked for decades as a programmer and I can remember an instance where he talked about how the insurance company he worked for had a bug in the website causing some clients a lot of trouble. He mentioned that he believed the mistake was somewhere in the JQuery, but he wasn’t sure. Looking back at that moment made me realize something. Would I rather search for bugs in a program that used a coding standard or code that did not? The answer is resoundingly: one that used a coding standard. We should provide the same courtesy to future programmers (or ourselves) that will look over our code. Now reflecting on my Programming Structures class, I realize it was a blessing to have to follow a coding structure. Not only did it build skills in writing quality code, it also has provided me with a fair amount of clean, well-commented code that I can show off to potential employers.
+
+Writing with coding standards is worth it. It may take dedicated time to ensure a program meets ESLint standards, but dedicating a few minutes here and there will pay off. It can be daunting to see a bunch of additional errors that have been added on top of the compiler, but fixing these mistakes will provide clean and more reliable code. A quality program is more than just functional and at the least it must be readable. A poorly constructed solution is a bad solution, regardless of whether it gets the job done. In the end, if people are allowed to scrape by with the bare minimum to a solution they will develop bad habits. ESLint prevents this from happening. It holds coders to a higher standard. Higher standards produce quality work. And an algorithm is not worth making if it isn’t quality.
+
+<img width="100px" class="rounded float-start pe-4" src="https://www.clker.com/cliparts/q/m/6/6/Z/i/green-checkmark-and-red-minus-md.png">
