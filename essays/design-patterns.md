@@ -26,3 +26,11 @@ While I haven't extensively used behavioral design patterns, I recognize their p
 Consider another instance where design patterns were instrumental, such as the implementation of the publish-subscribe pattern in the "Project Portal." We implemented the publish-subscribe pattern using MongoDB to deliver data efficiently from the server to the client. This pattern protected sensitive data, ensuring that only relevant information was shared with users based on their subscriptions. However, our implementation had a flaw: we filtered the data after subscription, allowing users to access all projects and then filtering them by project statuses. This oversight highlighted the importance of adhering to best practices in design pattern implementation, emphasizing the need for thorough planning.
 
 In conclusion, design patterns are not just solutions; they are lessons learned and distilled into reusable templates that guide us in software development. They offer a way to avoid repeating the same mistakes and pitfalls that have been encountered and addressed by programmers before us. As George Santayana wisely said, "Those who cannot remember the past are condemned to repeat it.”
+
+Use of Chat GPT:
+* I wrote a detailed outline and gave it to Chat GPT to generate a draft
+* I also gave it the prompt and a couple of my essays for reference of voice
+* After that I repeatedly prompted it trying to make the language more simple and accurately reflect the messages I was trying to convey
+* Then I made it end with the George Santayan quote
+* I again tried to prompt it to sound like my voice by giving it a reference essay, but it got kind of confused
+* The main point of this was to see how it would do and I think it's decent but not great
