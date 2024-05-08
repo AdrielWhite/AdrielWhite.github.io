@@ -21,62 +21,47 @@ Unfortunately, however, it seems that almost all (UH Manoa) classes forbid the u
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-1. Experience WODs e.g. E18
-
+1. Experience WODs e.g. E18<br>
 I only utilized AI in experience WODs in a very limited manner; such as when I had to configure new packages on my computer, such as Meteor. I found it to be helpful for proper use of the command prompt. A common use of this is when I would put a command prompt error into ChatGPT, explaining what I was trying to do and it would tell me how to fix it (such as installing and saving dependencies I needed).
 
-2. In-class Practice WODs
-
+2. In-class Practice WODs<br>
 I did not use AI tools in either Practice WODs or In-class WODs. The reason for this is that I did not want to rely on them to complete the tasks. The WODs asked for fairly simple software and algorithm designs and I wanted to make sure that I had the knowledge and skills to solve them without an AI writing code for me.
 
-3. In-class WODs
-
+3. In-class WODs<br>
 I did not use AI. See question 2
 
-4. Essays
-
-For almost all of my essays I did not use AI. To me, AI generated writing seems fake, vague, unspecific, and ultimately not worth reading. However, for a Design Pattern essay I wanted to test out what AI could do and if I could mitigate these AI issues. So for this essay I provided ChatGPT with the prompt and a detailed outline of what I wanted the essay to be about. I've also wondered if I could give ChatGPT some of my previously written essays and tell it to write in my voice. I did this but the ChatGPT did not really seem to understand what I was attempting to do.
-
+4. Essays<br>
+For almost all of my essays I did not use AI. To me, AI generated writing seems fake, vague, unspecific, and ultimately not worth reading. However, for a Design Pattern essay I wanted to test out what AI could do and if I could mitigate these AI issues. So for this essay I provided ChatGPT with the prompt and a detailed outline of what I wanted the essay to be about. I've also wondered if I could give ChatGPT some of my previously written essays and tell it to write in my voice. I did this but the ChatGPT did not really seem to understand what I was attempting to do.<br>
 The first draft of the essay sounded like it was written by AI. I had to do a fair amount of additional prompting to simplify the wording and remove phrases that seemed especially generated. I also had to fix up some of my examples as ChatGPT did not quite comprehend how they fit into the topic purely based off my outline. In the end, I thought the essay was okay. However, it seems to me that where the essay stepped in and simplified my writing experience, it did so in a way that does not at all reflect my writing style and is bland and un-organic.
 
-5. Final project
-
+5. Final project<br>
 I did not use AI for the final project. If I lacked understanding I chose to go to a more experienced developer on my team for help instead.
 
-6. Learning a concept / tutorial
-
+6. Learning a concept / tutorial<br>
 I did not use AI in this way
 
-7. Answering a question in class or in Discord
-
+7. Answering a question in class or in Discord<br>
 I did this sometimes, but I tend to stick to a resource I'm more familiar with, such as GeeksForGeeks. However, for conceptual ideas it seemed that AIs, such as ChatGPT were usually correct and moderately insightful for software issues.
 
-8. Asking or answering a smart-question
-
+8. Asking or answering a smart-question<br>
 I did not use AI in this way
 
-9. Coding example e.g. “give an example of using Underscore .pluck”
-
+9. Coding example e.g. “give an example of using Underscore .pluck”<br>
 I did not use AI in this way, opting to look at documentation or other online resources instead
 
-10. Explaining code
-
+10. Explaining code<br>
 I did not use AI in this way
 
-11. Writing code
-
+11. Writing code<br>
 I did not use AI in this way. See question 2
 
-12. Documenting code
-
+12. Documenting code<br>
 I did not use AI in this way
 
-13. Quality assurance
-
+13. Quality assurance<br>
 I did not use AI in this way
 
-14. Other uses in ICS 314 not listed above
-
+14. Other uses in ICS 314 not listed above<br>
 Help with command prompt. See question 1
 
 
