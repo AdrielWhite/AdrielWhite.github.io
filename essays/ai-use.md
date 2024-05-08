@@ -77,7 +77,7 @@ In the limited use of AI I have done in my Software Engineering class, I have fo
 
 ### V. Challenges and Opportunities:
 
-AI has limitations. The technology, while quickly advancing, can not do everything one would hope it could. I often find that ChatGPT does not understand exactly what you want it to do, and seems unable to accomplish certain tasks, such as writing an essay in my voice. Prompting an AI can be difficult as it is unclear what it's knowledge database contains. Humans can make connections in their brain, read body language, understand inflection, etc; coding languages have clear syntax. AI lack either of these and that makes it (at least to me) difficult to know how to efficiently use it.
+AI has limitations. The technology, while quickly advancing, can not do everything one would hope it could. I often find that ChatGPT does not understand exactly what you want it to do, and seems unable to accomplish certain tasks, such as writing an essay in my voice. Prompting an AI can be difficult as it is unclear what its knowledge database contains. Humans can make connections in their brain, read body language, understand inflection, etc; coding languages have clear syntax. AI lack either of these and that makes it (at least to me) difficult to know how to efficiently use it.
 
 
 ### VI. Comparative Analysis:
