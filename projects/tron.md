@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tron/c-image.png
+image: img/tron/tron-square.png
 title: "Tron - Scratch Project"
 date: 2017
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "I came up with the idea and implemented a simple Tron bike game that can be played PvP or player vs computer."
 ---
 
-<img width="600px" src="img/tron/Screenshot 2024-01-18 165234.png" class="img-thumbnail" alt="tron-in-game" >
+<img width="600px" src="../img/tron/Screenshot 2024-01-18 165234.png" class="img-thumbnail" alt="tron-in-game" >
 
 Scratch! Are you kidding me!
 Now I'll be the first to admit that this program isn't the most complex or difficult project out there. However it does show a few things I have picked up over the years.

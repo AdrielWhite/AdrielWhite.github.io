@@ -12,7 +12,7 @@ labels:
 summary: "I sang and narrated in a large-scale production at Hawaii Theatre."
 ---
 
-<img class="img-fluid" src="https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/Screenshot%202024-01-18%20164743.png?raw=true">
+<img class="img-fluid" src="../img/hearts/Screenshot 2024-01-18 164743.png" alt="concert-picture">
 
 In my senior year of highschool I participated in Hawai'i Education of the ARTS, a choir which has performed concerts and theatre productions for decades. A semester of practice went in to make the Spring 2022 Concert at Hawaii Theatre a reality. We meticulously drilled musical parts and harmonies. The concert was a great team-work building experience. A large amount of synchronization was needed for the concert to come together in both technicalities and our voices.
 
