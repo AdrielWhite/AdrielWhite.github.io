@@ -17,6 +17,7 @@
   "interests": [
     { "name": "Programming" },
     { "name": "Software Engineering" },
+    { "name": "Algorithms" },
     { "name": "Cybersecurity" }
   ],
   "skills": [
@@ -26,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Eclipse", "Git/GitHub"]
+      "keywords": [ "Windows", "Eclipse", "Git/GitHub", "Bootstrap", "React"]
     }
   ],
   "education": [
@@ -42,7 +43,7 @@
   ],
   "work": [
     {
-      "company": "Acedemic Resource Center",
+      "company": "Academic Resource Center",
       "position": "Tutor",
       "website": "https://manoa.hawaii.edu/undergrad/Learning/",
       "startDate": "2024-01-16",
@@ -50,7 +51,7 @@
       "summary": "Math, Physics, and ICS Tutor",
       "highlights": [
         "Provides learning assistance to students in both scheduled and drop-in tutoring",
-        "Workshops with team of tutors and staffs to expand academic oppurtunities to students"
+        "Workshops with team of tutors and staffs to expand academic opportunities to students"
       ]
     },
     {
@@ -85,7 +86,7 @@
       "title": "UH Manoa Provost Scholarship",
       "date": "2022-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Competetive scholarship awarded to incoming freshmen for rigorous academics including at least a 3.7 high school GPA."
+      "summary": "Competitive scholarship awarded to incoming freshmen for rigorous academics including at least a 3.7 high school GPA."
     }
   ],
   "references": [

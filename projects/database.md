@@ -12,7 +12,7 @@ labels:
 summary: "A database which allows records to be created, deleted, searched for and saves the data in a txt file."
 ---
 
-<img class="img-fluid" src="https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/Screenshot%202024-01-18%20163501.png?raw=true" alt="database-running">
+<img class="img-fluid" src="https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/database/Screenshot%202024-01-18%20163501.png?raw=true" alt="database-running">
 
 In ICS 212 I programmed a C++ database. The database is built upon a linked-list framework. This database contains many functions which allow the adding, removal, searching, and printing of records.  Upon termination of the program, the project will save the remaining records into a txt file. This allows the records to be saved and accessed when the program is launched again. The project also contains a dynamic text-based user interface which can handle a variety of proper and improper inputs and allow the user to input and access data.
 

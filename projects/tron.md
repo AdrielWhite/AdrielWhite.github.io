@@ -12,7 +12,7 @@ labels:
 summary: "I came up with the idea and implemented a simple Tron bike game that can be played PvP or player vs computer."
 ---
 
-<img width="600px" src="https://github.com/AdrielWhite/AdrielWhite.github.io/blob/main/img/Screenshot%202024-01-18%20165234.png?raw=true" class="img-thumbnail" alt="tron-in-game" >
+<img width="600px" src="img/tron/Screenshot 2024-01-18 165234.png" class="img-thumbnail" alt="tron-in-game" >
 
 Scratch! Are you kidding me!
 Now I'll be the first to admit that this program isn't the most complex or difficult project out there. However it does show a few things I have picked up over the years.
