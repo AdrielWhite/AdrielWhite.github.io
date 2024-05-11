@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: tron-square.png
+image: img/tron/c-image.png
 title: "Tron - Scratch Project"
 date: 2017
 published: true
