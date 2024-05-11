@@ -16,6 +16,8 @@ summary: "A database which allows records to be created, deleted, searched for a
 
 In ICS 212 I programmed a C++ database. The database is built upon a linked-list framework. This database contains many functions which allow the adding, removal, searching, and printing of records.  Upon termination of the program, the project will save the remaining records into a txt file. This allows the records to be saved and accessed when the program is launched again. The project also contains a dynamic text-based user interface which can handle a variety of proper and improper inputs and allow the user to input and access data.
 
+This project showcases my ability to facilitate basic back-end database functionality. I also employed careful planning to properly execute the proper storage and access of the records. Since the linked-list structure is coded in C, I did not have a library of pre-built data structures to work with. This meant it was easy to cause segmentation faults if the data was allocated improperly.
+
 The concept of this database is from the ICS 212 instructor and material. However, all code was planned and coded by me. Here is a snippet of code that implements the findRecord function which searches through the database looking for records that have user-specified account number:
 
 ```
