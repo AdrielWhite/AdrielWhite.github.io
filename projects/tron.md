@@ -14,12 +14,11 @@ summary: "I came up with the idea and implemented a simple Tron bike game that c
 
 <img width="600px" src="../img/tron/Screenshot 2024-01-18 165234.png" class="img-thumbnail" alt="tron-in-game" >
 
-Scratch! Are you kidding me!
-Now I'll be the first to admit that this program isn't the most complex or difficult project out there. However it does show a few things I have picked up over the years.
+This project shows one of my first experiences with programming when I was in middle school. It highlights my beginning steps in creativity and technical problem solving. It shows off some of my programming strengths:
 
 First is creativity in project creation and implementation. There were no guidelines for this project. I had to come up with the game design completely on my own. As with any coding project (yes, even Scratch) there are difficulties in making all functionalities run smoothly. I had to overcome these obstacles and code through them.
 
-Another thing that is interesting about this project is the simple bot that I programmed in. There is a player vs computer option in the game. This means that I had to program in rules to the computer to be able to avoid collision and attempt to win the game. It uses a simple strategy, but it can often hold its own.
+Another thing that is interesting about this project is the simple bot that I programmed in. There is a player vs computer option in the game. This means that I had to program rules for the computer to be able to avoid collision and attempt to win the game. It uses a simple strategy, but it can often hold its own.
 
 Ultimately, while not super complicated (I did make it in middle school) this simple program highlights how much I enjoy programming in a variety of forms. For years I have enjoyed the creativity afforded in computer fields. I love opportunities to design and program something new and I enjoy the chance at facing problems and having to logic my way through them.
 
