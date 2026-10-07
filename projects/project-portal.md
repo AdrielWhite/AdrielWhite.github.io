@@ -8,8 +8,8 @@ published: true
 labels:
   - Software Engineering
   - Backend
+  - ReactJS
   - Meteor
-  - React/Bootstrap
   - GitHub
 summary: "A team project which serves as an intake portal and showcase for software projects."
 ---
