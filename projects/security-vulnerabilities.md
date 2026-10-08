@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project-portal/portal-logo.png
+image: img/security-vulnerabilities/zap-logo.png
 title: "Security Vulnerabilities Across CMS Platforms"
 date: 2025
 published: true
@@ -9,22 +9,19 @@ labels:
   - Cybersecurity
   - Vulnerability Analyst
   - ZAP
+  - Docker
   - Dynamic Application Security Testing
-summary: "A research project focused on examining the security of well-known open-source content management systems (CMSs) across multiple versions by identifying, classifying, and tracking vulnerabilities throughout their lifecycle."
+summary: "A research project focused on examining the security of open-source content management systems (CMSs) across multiple versions"
 ---
 
-<img class="img-fluid" src="../img/project-portal/available-projects.png" alt="available project page">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6guXEC2bqzMdCasTdCXhm8O500GPtnMxU_2ExW7-7wfqecuBa8y2RngqUn7RyTQ-S0HgC2XH4HJkJ/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-This project involved our team designing and programming a portal for software projects. Our team consisted of a few undergraduate students working together to work on a software project for use by professors at UH Manoa. There are multiple functionalities that we have designed into this project. 
-1. A place for intakes for software project proposals. 
-2. A database to view and show interest in approved project proposals. 
-3. A showcase for completed software projects (such as Capstone projects).
+In this project I conducted research by running active scanners and cyber attacks on running versions of Drupal and Wordpress. I was able to document security vunlerabilities in a timeline to see severity as well as fixes that were applied in major releases. I conducted this project under the mentorship of Dr. Anthony Peruma of UH Manoa. However all security testing and documentation was done by me.
 
-For more information about the project see our organization GitHub Page: <a href="https://project-portal-hawaii.github.io/"><i class="large github icon "></i>Project Portal Hawaii</a>
+For a report that showcases more methodology and a summary of findings see this presentation: <a href='https://docs.google.com/presentation/d/1hrwS98U4HJH3jH49Elyz0L0OIlrkuX3UlJTOoqUcdBg/edit?slide=id.g3919f3063f4_3_198#slide=id.g3919f3063f4_3_198' target="_blank">Security Vulnerabilities Across CMS Platforms</a>
 
-A big portion of my role in this project revolved around designing the Project Collection which is the basis for the database. I modified a university-provided template to include all the data fields that were required and designed the Add Project Form which interfaces with this collection in both the Add Project and Edit Project page. See the form below: 
+My role in this project encompassed running versions of CMS platforms locally and running tests on them. I accomplished this using Docker containerization of different CMS versions using pre-packaged images. I chose Zed Attack Proxy (ZAP) as the active tool to conduct testing on these systems. I used spiders and active attacks, then generated reports with ZAP to create findings.
 
-<img class="img-fluid" src="../img/project-portal/add-project.png" alt="add project page">
+This project showcases hands-on experience in cybersurity, vulnerability analysation, as well as containerization tools. As a developer with interest in the software and information technology fields, I found this project to be very helpful to see how poorly written code and old dependencies can cause serious security issues.
 
-Project Portal Hawaii: <a href="https://project-portal.live/">https://project-portal.live/</a>
 

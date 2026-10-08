@@ -58,4 +58,4 @@ int llist::findRecord(int uaccountno)
 
 <hr>
 
-Source: <a href="https://github.com/AdrielWhite/c-project-database"><i class="large github icon "></i>C++ Database on github</a>
+Source: <a href="https://github.com/AdrielWhite/c-project-database" target="_blank"><i class="large github icon "></i>C++ Database on github</a>

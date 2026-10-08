@@ -22,5 +22,5 @@ Additionally, my brother and I were the major narrators in the production. This 
 
 You can see the entire performance here:
  
-Source: <a href="https://www.youtube.com/watch?v=lH9APZEAAfQ">HEARTS 20th Anniversary Spring Concert at Hawaii Theatre, May 6, 2022
+Source: <a href="https://www.youtube.com/watch?v=lH9APZEAAfQ" target="_blank">HEARTS 20th Anniversary Spring Concert at Hawaii Theatre, May 6, 2022
 </a>

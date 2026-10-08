@@ -23,5 +23,5 @@ Another thing that is interesting about this project is the simple bot that I pr
 Ultimately, while not super complicated (I did make it in middle school) this simple program highlights how much I enjoy programming in a variety of forms. For years I have enjoyed the creativity afforded in computer fields. I love opportunities to design and program something new and I enjoy the chance at facing problems and having to logic my way through them.
 
 Here is the link to the full project:
-Source: <a href="https://scratch.mit.edu/projects/153689901/">Tron Project on Scratch</a>
+Source: <a href="https://scratch.mit.edu/projects/153689901/" target="_blank">Tron Project on Scratch</a>
 
