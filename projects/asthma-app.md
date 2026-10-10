@@ -7,6 +7,7 @@ date: 2026
 published: true
 labels:
   - Software Engineering
+  - Team Project
   - ReactJS
   - PixiJS
   - GitHub

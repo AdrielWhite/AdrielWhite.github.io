@@ -7,6 +7,7 @@ date: 2024
 published: true
 labels:
   - Software Engineering
+  - Team Project
   - Backend
   - ReactJS
   - Meteor
