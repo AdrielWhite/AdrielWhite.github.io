@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Adriel White",
-    "label": "Student",
-    "picture": "https://github.com/AdrielWhite.png",
+    "label": "Recent Computer Science Graduate",
+    "picture": "../img/bio/adriel-headshot.jpeg",
     "email": "adrielw@hawaii.edu",
     "phone": "808-773-4468",
     "website": "https://AdrielWhite.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "summary": "I am Computer Science graduate from University of Hawaii at Manoa with troubleshooting skills and previous work in student support, web development, and cybersecurity through technical and tutoring roles. I am interested in user support or information security position in a collaborative environment where I can contribute to system reliability and assist users with tech issues. My goal in the industry is to learn the skills to support real world technology solutions and their users.",
     "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "AdrielWhite", "url": "https://github.com/AdrielWhite" },
@@ -15,28 +15,28 @@
     ]
   },
   "interests": [
-    { "name": "Programming" },
     { "name": "Software Engineering" },
-    { "name": "Algorithms" },
-    { "name": "Cybersecurity" }
+    { "name": "Information Technology" },
+    { "name": "Cybersecurity" },
+    { "name": "Algorithms" }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+      "keywords": ["Javascript", "Java", "C", "C++", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Eclipse", "Git/GitHub", "Bootstrap", "React"]
+      "keywords": [ "Windows", "Eclipse", "Git/GitHub", "Bootstrap", "ReactJS", "Linux", "Docker", "PowerShell Scripting"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "area": "Computer Science (Graduated 05/2026)",
       "studyType": "B.S.",
-      "startDate": "2022-09-01",
-      "endDate": "Present",
+      "startDate": "2022-08-22",
+      "endDate": "2026-05-16",
       "courses": [
       ]
     }

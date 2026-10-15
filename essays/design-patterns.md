@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns: Don't Reinvent the Wheel"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-26
-published: true
+published: false
 labels:
   - Software Engineering
   - Design Patterns
