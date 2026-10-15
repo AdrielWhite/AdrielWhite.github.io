@@ -2,16 +2,16 @@
   "basics": {
     "name": "Adriel White",
     "label": "Recent Computer Science Graduate",
-    "picture": "../img/bio/adriel-headshot.jpeg",
+    "picture": "../img/bio/edited-headshot.jpeg",
     "email": "adrielw@hawaii.edu",
     "phone": "808-773-4468",
     "website": "https://AdrielWhite.github.io",
     "summary": "I am Computer Science graduate from University of Hawaii at Manoa with troubleshooting skills and previous work in student support, web development, and cybersecurity through technical and tutoring roles. I am interested in user support or information security position in a collaborative environment where I can contribute to system reliability and assist users with tech issues. My goal in the industry is to learn the skills to support real world technology solutions and their users.",
-    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
+    "description": "This portfolio's project section show my software journey in technology projects as I have learned new frameworks and skills. The most recent projects, particularly the MHealth Asthma Education App, show my proficiency in software development. My essays showcase my thoughts on various software tools and patterns. They shows my ability to do critical thinking when researching a tech solution.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "AdrielWhite", "url": "https://github.com/AdrielWhite" },
-      { "network": "linkedin", "username": "adriel-white", "url": "https://www.linkedin.com/in/adriel-white-457ab22a9" },
-      { "network": "email", "username": "adrielw", "url": "adrielw@hawaii.edu" }
+      { "network": "linkedin", "username": "adriel-white", "url": "https://www.linkedin.com/in/adriel-white-457ab22a9" }
     ]
   },
   "interests": [
@@ -32,7 +32,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (Graduated 05/2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-22",
@@ -83,8 +83,14 @@
   ],
   "awards": [
     {
+      "title": "UH Manoa Summa Cum Laude",
+      "date": "2026",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded for completing a degree with a cumulative GPA of 3.90 or higher."
+    },
+    {
       "title": "UH Manoa Provost Scholarship",
-      "date": "2022-Present",
+      "date": "2022-2026",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Competitive scholarship awarded to incoming freshmen for rigorous academics including at least a 3.7 high school GPA."
     }
